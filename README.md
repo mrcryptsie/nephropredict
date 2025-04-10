@@ -43,7 +43,7 @@ Une application médicale élégante qui prédit les stades de l'Insuffisance R�
 
 1. Cloner le dépôt:
    ```bash
-   git clone https://github.com/votre-utilisateur/nephropredict.git
+   git clone https://github.com/mrcryptsie/nephropredict.git
    cd nephropredict
    ```
 
